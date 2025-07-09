@@ -45,7 +45,7 @@ public class DemoSwagLabs {
 
         shoppingCart.click();
 
-        
+
 
         driver.quit();
 
